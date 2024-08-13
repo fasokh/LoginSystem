@@ -1,0 +1,20 @@
+{
+    "login-massge": "ورود",
+    "login-warn": "اکانت ندارم",
+    "email": "ایمیل",
+    "name": "اسم",
+    "password": "رمز عبور",
+    "submit": "تایید",
+    "ColorMode": "تفیر رنگ",
+    "required": "خالی نباشد",
+    "minLength": "حداقل 4 رقم داشته باشد",
+    "sign-massge": "ثبت نام",
+    "sign-warn": "در حال حاضر  اکانت دارم",
+    "id-list": "شناسه",
+    "name-list": "اسم",
+    "userName-list": "نام کاربری",
+    "email-list": "ایمیل",
+    "info-list": "اطلاعات کاربران",
+    "logo": "کاربران",
+    "exite": "خروج"
+}

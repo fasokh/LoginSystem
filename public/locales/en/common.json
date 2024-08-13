@@ -1,0 +1,20 @@
+{
+    "login-massge": "Login",
+    "login-warn": "Dont have Acount?",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Submit",
+    "ColorMode": "Color Mode",
+    "required": "This is required",
+    "minLength": "Minimum length should be 4",
+    "sign-massge": "Sign Up",
+    "sign-warn": "Already Have acount?",
+    "id-list": "id",
+    "name-list": "Name",
+    "userName-list": "Username",
+    "email-list": "Email",
+    "info-list": "Information of users",
+    "logo": "Users",
+    "exite": "Exite"
+}

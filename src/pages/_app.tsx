@@ -2,7 +2,7 @@ import "@/styles/globals.css";
 import type { AppProps } from "next/app";
 import AppChakraProvider from "@/providers/AppChakraProvider";
 import { Provider } from "react-redux";
-import store from "@/store/app";
+// import store from "@/store/app";
 import { NextPage } from "next";
 import Locale from "@/components/Language";
 import { useRouter } from "next/router";
@@ -21,11 +21,11 @@ const App: NextPage<Props> = ({ Component, pageProps }) => {
 
   return (
     <AppChakraProvider>
-      <Provider store={store}>
+{/*       <Provider store={store}> */}
         <Locale>
           <Component {...pageProps} />
         </Locale>
-      </Provider>
+{/*       </Provider> */}
     </AppChakraProvider>
   );
 };
